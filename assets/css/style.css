@@ -557,7 +557,14 @@ section {
   transition: 0.9s;
   background-color: #ffb727;
 }
-
+.about .text-center button[type=submit]{
+  background-color: #ffb727;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 5px;
+}
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
