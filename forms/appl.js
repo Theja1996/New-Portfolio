@@ -24,6 +24,7 @@
 var firebaseConfig = {
     apiKey: "AIzaSyCizp2hE_Z74iXPuWO6bHJoHQplGUTNnAw",
     authDomain: "portfolio-9d452.firebaseapp.com",
+    databaseURL: "https://portfolio-9d452-default-rtdb.asia-southeast1.firebasedatabase.app/",
     projectId: "portfolio-9d452",
     storageBucket: "portfolio-9d452.appspot.com",
     messagingSenderId: "892868582146",
